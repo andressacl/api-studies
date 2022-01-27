@@ -1,0 +1,19 @@
+.layout {
+    height: 100vh;
+    display: flex;
+}
+
+.conteudo {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    font-size: 5vh;
+    padding: 10px 20 px;
+}
+
+.rodape {
+    display: flex;
+    justify-content: flex-end;
+    padding: 30px 20px;
+}
+
