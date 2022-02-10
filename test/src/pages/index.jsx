@@ -7,7 +7,10 @@ export default function Inicio(){
             <h2> Funcionando as funcionalidades </h2>
 
             
-            <button><Navegador destino="integracao" texto="Obter dados"/>
+            <button><Navegador destino="integracao" texto="Obter dados aleatórios"/>
+            </button>
+
+            <button><Navegador destino="jsonIterator" texto="API do OBsite"/>
             </button>
         </div>
     )}
